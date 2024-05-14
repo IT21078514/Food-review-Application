@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CYAN_Backend/CommentManagementService/CommentManagementService/CommentManagementService.iml" filepath="$PROJECT_DIR$/CYAN_Backend/CommentManagementService/CommentManagementService/CommentManagementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CYAN_Backend/PostManagementService/Post Management Service/PostManagementService.iml" filepath="$PROJECT_DIR$/CYAN_Backend/PostManagementService/Post Management Service/PostManagementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CYAN_Backend/UserManagementService/UserManagementService/UserManagementService.iml" filepath="$PROJECT_DIR$/CYAN_Backend/UserManagementService/UserManagementService/UserManagementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cyan.iml" filepath="$PROJECT_DIR$/.idea/cyan.iml" />
+    </modules>
+  </component>
+</project>
